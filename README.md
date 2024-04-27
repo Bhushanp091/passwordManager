@@ -97,13 +97,13 @@
 
 ## Application Screenshots:
 <div style="display: flex;">
-    <img src="https://github.com/Bhushanp091/passwordManager/raw/master/Screenshot_20240427_121305.png" alt="Screenshot 1" width="500" />
-    <img src="https://github.com/Bhushanp091/passwordManager/raw/master/Screenshot_20240427_121507.png" alt="Screenshot 2" width="500" />
+    <img src="https://github.com/Bhushanp091/passwordManager/raw/master/Screenshot_20240427_121305.png" alt="Screenshot 1" width="300" />
+    <img src="https://github.com/Bhushanp091/passwordManager/raw/master/Screenshot_20240427_121507.png" alt="Screenshot 2" width="300" />
 </div>
 
 <div style="display: flex;">
-    <img src="https://github.com/Bhushanp091/passwordManager/raw/master/Screenshot_20240427_121557.png" alt="Screenshot 3" width="500" />
-    <img src="https://github.com/Bhushanp091/passwordManager/blob/master/Screenshot_20240427_121539.png" alt="Screenshot 3" width="500" />
+    <img src="https://github.com/Bhushanp091/passwordManager/raw/master/Screenshot_20240427_121557.png" alt="Screenshot 3" width="300" />
+    <img src="https://github.com/Bhushanp091/passwordManager/blob/master/Screenshot_20240427_121539.png" alt="Screenshot 3" width="300" />
 </div>
 
 
