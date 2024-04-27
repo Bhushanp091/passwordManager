@@ -95,6 +95,9 @@
     - **Android Architecture Components:** Our app follows best practices in Android app development by implementing architecture components such as ViewModel, LiveData, and Data Binding, enhancing maintainability and testability.
     - **Material Design:** The app adheres to Google's Material Design guidelines, ensuring a consistent and visually appealing user experience across different Android devices and versions.
 
+## Application Screenshots:
+
+![Password Manager App Screenshot](https://github.com/Bhushanp091/passwordManager/raw/master/Screenshot_20240427_121305.png)
 
 
 ## Additional Notes:
